@@ -1,4 +1,4 @@
-# Pablo-Ballesteros-Suarez
+# Pablo Ballesteros Suárez
 A short description of me and what I'm doing, now at 4GeeksAcademy!
 
 Hello, my name is Pablo Ballesteros , student at 4GeeksAcademy! Always trying to learn about this amazing world of full-stack developing.
