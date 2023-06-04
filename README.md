@@ -14,6 +14,9 @@ At the moment I'm learning and practicing the next technologies:
 
 
 
-<img src="[./img/university-of-michigan.jpeg](https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png](https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png)"
-     height="50"
-     alt="Image of HTML,CSS and JavaScript">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
+ </div>
