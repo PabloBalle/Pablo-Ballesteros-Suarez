@@ -21,7 +21,7 @@ Hello, my name is Pablo Ballesteros , student at 4GeeksAcademy! Always trying to
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
  </div>
  
- ## Puedes contactarme en las siguientes redes sociales!
+ ## Here is my contact profiles!
  <div>
   <a href="">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
